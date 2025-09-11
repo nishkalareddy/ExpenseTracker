@@ -1,6 +1,6 @@
-package com.expense.service;
-import com.expense.model.Transaction;
-import com.expense.repository.TransactionRepository;
+package com.expenses.service;
+import com.expenses.model.Transaction;
+import com.expenses.respository.TransactionRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
